@@ -20,4 +20,4 @@ const container = document.getElementById('root');
 const root = ReactDOM.createRoot(container);
 
 //render app to root
-root.render(<ul>{animalsInHTML}</ul>)
+root.render(animalsInHTML)
